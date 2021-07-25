@@ -3,8 +3,8 @@ require_relative "lib/third_form/version"
 Gem::Specification.new do |spec|
   spec.name        = "third_form"
   spec.version     = ThirdForm::VERSION
-  spec.authors     = [""]
-  spec.email       = [""]
+  spec.authors     = ["joao"]
+  spec.email       = ["joaofelipe1294@gmail.com"]
   # spec.homepage    = "TODO"
   spec.summary     = "Summary of ThirdForm."
   spec.description = "Description of ThirdForm."
